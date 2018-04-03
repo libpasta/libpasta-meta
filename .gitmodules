@@ -1,0 +1,15 @@
+[submodule "java"]
+	path = java
+	url = git@github.com:libpasta/libpasta-java.git
+[submodule "libpasta"]
+	path = libpasta
+	url = git@github.com:libpasta/libpasta.git
+[submodule "pasta-bindings"]
+	path = pasta-bindings
+	url = git@github.com:libpasta/pasta-bindings.git
+[submodule "py"]
+	path = py
+	url = git@github.com:libpasta/libpasta-py.git
+[submodule "rb"]
+	path = rb
+	url = git@github.com:libpasta/libpasta-rb.git
